@@ -1,0 +1,7 @@
+# Project 1: First Steps on WebStorm
+- My journey to learn WebStorm and Git Integration.
+- Hejj :)
+
+  
+
+denisd
